@@ -26,11 +26,3 @@
 > npx tsc
 > node .\src\js\app\app.js
 ``` 
-### Atividade 4
-```cmd
-> git clone https://github.com/Os-Escolhidos/atv4-Atlantis-
-> cd atv4-Atlantis-
-> npm i
-> npm run dev
-> Abra o projeto no navegador utilzando a rota http://127.0.0.1:5174/
-```
