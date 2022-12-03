@@ -2,7 +2,7 @@
 
 # Atividades TypeScript [![My Skills](https://skills.thijs.gg/icons?i=ts)](https://www.typescriptlang.org/id/download/)
 
-## Listas de TypeScript: https://github.com/Os-Escolhidos
+## Listas de TypeScript: https://github.com/Os-Escolhidos/repositories
 
 
 ### Atividade 1
